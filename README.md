@@ -7,7 +7,7 @@ Sr Developer Engineer
 I am a backend-focused software engineer with strong skills in Java, Python, SQL, and microservices architecture. I specialize in backend development, using frameworks like NestJS and FastAPI, with tools like RabbitMQ. I have solid experience in Google Cloud Platform (GCP) and basic knowledge of AWS, along with third-party integrations using platforms like Braze and Talon.One. While my expertise is in backend, I also have a foundational understanding of frontend technologies. Let me know if you’d like to learn about additional tools or projects I’ve worked on.
 
 * 🌍  I'm based in Bogota COL
-* 🖥️  See my portfolio at [Portfolio](http://ccpinzon.up.railway.app/)
+* 🖥️  See my portfolio at [Portfolio](https://ccrp.fun/)
 * ✉️  You can contact me at [rdz.cristhian@gmail.com](mailto:rdz.cristhian@gmail.com)
 * 🚀  I'm currently working on [Farmatodo](http://farmatodo.com.co)
 * 🤝  I'm open to collaborating on Open Source, Indie Projects
